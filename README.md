@@ -53,3 +53,18 @@ It combines **Arduino programming** for real-time temperature measurement and fa
 - Industrial Process Monitoring
 
 - Laboratory Equipment
+
+---
+## 👥 Authors
+
+- Kunal Gupta (2020B4AA0474P)
+
+- Devansh Sharma (2021AAPS0602P)
+
+- Rishab Maloo (2021B2AA2767P)
+
+- Stiti Sambhab Das (2021B4AA0770P)
+
+Supervised by **Dr. Sujan Yenuganti**,   
+Assistant Professor, Department of Electrical & Electronics Engineering, BITS Pilani
+
