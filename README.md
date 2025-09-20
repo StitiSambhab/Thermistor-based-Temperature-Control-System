@@ -39,7 +39,7 @@ It combines **Arduino programming** for real-time temperature measurement and fa
 - Fan speed increases with temperature, while LEDs provide a visual temperature range indication.
 
 - Regression model shows a strong linear correlation between voltage and temperature, useful for calibration.
-
+---
 ## 📌 Applications
 
 - HVAC systems
